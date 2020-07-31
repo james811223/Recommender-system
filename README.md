@@ -6,3 +6,5 @@ The data comes from Amazon which contains users reviews on different musics with
 
 # Tool used
 Spark via Python
+
+# Initial look into data

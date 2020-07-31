@@ -8,3 +8,4 @@ The data comes from Amazon which contains users reviews on different musics with
 Spark via Python
 
 # Initial look into data
+![download](https://user-images.githubusercontent.com/44472160/89050014-1f8d7580-d320-11ea-8bd4-39efd0f54012.png)
